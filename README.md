@@ -64,6 +64,7 @@ POST /tasks/assign-by-ref
 GET /tasks/smart-daily?from=YYYY-MM-DD&to=YYYY-MM-DD
 POST /tasks/{id}/priority?value=HIGH
 GET /tasks/{id}
+
 ```
 
 Jyotsana Chandwani
